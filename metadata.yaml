@@ -22,3 +22,6 @@ subordinate: false
 # peers:
   # peer-relation:
     # interface: interface-name
+
+series:
+  - bionic
